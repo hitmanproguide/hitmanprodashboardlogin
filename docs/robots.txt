@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hitmanprodashboardlogin.readthedocs.io/en/latest/
